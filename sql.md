@@ -1,5 +1,5 @@
 
-I learned about sql statement and data bases adn i complete the exercises form 1 to 6 and from 13 to 18
+## I learned about sql statement and data bases adn i complete the exercises form 1 to 6 and from 13 to 18
 ![firstpic](https://user-images.githubusercontent.com/125550624/235375200-694236a3-21ad-4410-8feb-807816dda8c4.png)
 ![firstpic](https://user-images.githubusercontent.com/125550624/235375239-982d16f7-bf4d-4413-9196-2dfe0bdb57d0.png)
 ![firstpic](https://user-images.githubusercontent.com/125550624/235375205-f3c97c28-4d69-43a0-b242-4e8549ebf4a6.png)
