@@ -32,5 +32,7 @@ Big O notation is a mathematical notation that describes the limiting behavior o
 ## Things I want to know more about
 1. big O
 2. graph data structure 
-3. diffrents between Data Structures
+3. diffrences between Data Structures
+
+
 [link](https://github.com/Ahmadlotfyfalah1998/reading-notes/edit/main/data-structures.md)
