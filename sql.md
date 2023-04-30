@@ -1,3 +1,15 @@
 
 I learned about sql statement and data bases adn i complete the exercises form 1 to 6 and from 13 to 18
 ![firstpic](https://user-images.githubusercontent.com/125550624/235375200-694236a3-21ad-4410-8feb-807816dda8c4.png)
+![firstpic](https://user-images.githubusercontent.com/125550624/235375239-982d16f7-bf4d-4413-9196-2dfe0bdb57d0.png)
+![firstpic](https://user-images.githubusercontent.com/125550624/235375205-f3c97c28-4d69-43a0-b242-4e8549ebf4a6.png)
+![firstpic](https://user-images.githubusercontent.com/125550624/235375206-b6a9ccc7-520a-479c-b1a2-059043cba667.png)
+![firstpic](https://user-images.githubusercontent.com/125550624/235375209-6b170afe-61cd-43d2-abb4-e1a3c9e065d6.png)
+![firstpic](https://user-images.githubusercontent.com/125550624/235375210-224cd632-272b-4393-98cf-2baf4be7d9f3.png)
+![firstpic](https://user-images.githubusercontent.com/125550624/235375211-03984489-6edd-46cb-89b2-583b5a2661b1.png)
+![firstpic](https://user-images.githubusercontent.com/125550624/235375219-c9060018-8612-45a0-a0bb-8f717bc03a86.png)
+![firstpic](https://user-images.githubusercontent.com/125550624/235375224-bcbc2a00-d5d7-4fbe-8521-113b76b7a54c.png)
+![firstpic](https://user-images.githubusercontent.com/125550624/235375228-4855153d-c007-4a9b-9168-021348d8c01b.png)
+![firstpic](https://user-images.githubusercontent.com/125550624/235375231-99007a47-73ce-49c2-84c6-8e561b7e8833.png)
+![firstpic](https://user-images.githubusercontent.com/125550624/235375235-d5c52184-61af-49ea-8d44-f0d4d220dd92.png)
+![firstpic](https://user-images.githubusercontent.com/125550624/235375237-901ce1ba-1f86-4bda-a4cc-6f747ab0dc89.png)
