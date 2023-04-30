@@ -1,2 +1,2 @@
 # reading-notes
-test
+[test]
