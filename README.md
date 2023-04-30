@@ -1,5 +1,5 @@
 # reading-notes
- here i will write my questions and observations about #ffffff assignments
+ here i will write my *questions* and *observations* about  assignments 😄
 
 
 ## Code 102 - Intro to Software Development
