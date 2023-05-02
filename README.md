@@ -7,8 +7,7 @@
 ## Code 201 - Foundations of Software Development
 ## Code 301 - Intermediate Software Development
 ## Code 401 - Advanced Software Development
-| Month    | Savings |
+|  lab     |code challenges|   
 | -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
+| [lab01](https://github.com/Ahmadlotfyfalah1998/snakes-cafe) |  |
+
