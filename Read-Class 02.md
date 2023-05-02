@@ -16,11 +16,11 @@ and will not run it if it's a module
 ## Recursion
 Recursion is a function can call and repete it's self until it find a base case 
 # Reading Questions
-Q1. Test-Driven Development (TDD) in Python follows key principles: write a test, run the test which should fail, write code to pass the test, and then run all tests. TDD improves code coverage, promotes simpler design, prevents regressions,  and serves as documentation. By following these principles, developers create higher quality code with fewer bugs and easier collaboration.
-Q2. according to my understanding it will execute the functions if the python file is  script and if it imported as module will not execute it
-Q3. it is a function that will call it self many times until it reach to some thing called (base case) , the base case is a condition that will return from  the function
+#### Q1. Test-Driven Development (TDD) in Python follows key principles: write a test, run the test which should fail, write code to pass the test, and then run all tests. TDD improves code coverage, promotes simpler design, prevents regressions,  and serves as documentation. By following these principles, developers create higher quality code with fewer bugs and easier collaboration.
+#### Q2. according to my understanding it will execute the functions if the python file is  script and if it imported as module will not execute it
+#### Q3. it is a function that will call it self many times until it reach to some thing called (base case) , the base case is a condition that will return from  the function
 a value than the function will stop calling its self
-Q4. the module is a code that writen in another page and we can import it or import a functions from it in the main page 
+#### Q4. the module is a code that writen in another page and we can import it or import a functions from it in the main page 
 the packege is a group of moudles and we can import it in a main page 
 
 ## Things I want to know more about
