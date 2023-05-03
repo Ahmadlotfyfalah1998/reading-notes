@@ -21,26 +21,26 @@
 # Manual Pages 
 ### will help you to look for your files 
 
-  man command
-  Look up the manual page for a particular command
-  man -k search term
-  Do a keyword search for all manual pages containing the given search term.
-  /term
-  Within a manual page, perform a search for 'term'
-  n
-  After performing a search within a manual page, select the next found item.
+##### man command
+##### Look up the manual page for a particular command
+##### man -k search term
+##### Do a keyword search for all manual pages containing the given search term.
+##### /term
+##### Within a manual page, perform a search for 'term'
+##### n
+##### After performing a search within a manual page, select the next found item.
 # File Manipulation
-Make Directory - ie. Create a directory.
-rmdir
-Remove Directory - ie. Delete a directory.
-touch
-Create a blank file.
-cp
-Copy - ie. Copy a file or directory.
-mv
-Move - ie. Move a file or directory (can also be used to rename).
-rm
-Remove - ie. Delete a file.
+##### Make Directory - ie. Create a directory.
+##### rmdir
+##### Remove Directory - ie. Delete a directory.
+##### touch
+##### Create a blank file.
+##### cp
+##### Copy - ie. Copy a file or directory.
+##### mv
+##### Move - ie. Move a file or directory (can also be used to rename).
+##### rm
+##### Remove - ie. Delete a file.
 ### be careful The Linux command line does not have an undo feature
 
 
