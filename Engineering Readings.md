@@ -43,5 +43,5 @@ the steps if you face a new problem
  ### 6. Address the Root Cause(s)
  ### 7. Monitor Your Measures
 # Discussion Questions
-Q1. I will 
-Q2.
+Q1. maybe i will suggest new creative ideas that no one has thought about it
+Q2. i will search about the how to problem solving steps and do each step for example i need to understand the problem and plan how to solve it and divide it to smoller sections  
