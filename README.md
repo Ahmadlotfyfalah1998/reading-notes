@@ -7,7 +7,7 @@
 ## Code 201 - Foundations of Software Development
 ## Code 301 - Intermediate Software Development
 ## Code 401 - Advanced Software Development
-|  lab     |code challenges|   
+|read |class|   
 | -------- | ------- |
-| [lab01](https://github.com/Ahmadlotfyfalah1998/snakes-cafe) |  |
-
+|read01  | [Topic](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/Read-Class%2001.md) |
+|read02|[Testing and Modules](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/Read-Class%2002.md)|
