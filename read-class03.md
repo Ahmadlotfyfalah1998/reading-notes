@@ -35,6 +35,6 @@
  #### from "w3 schools"
  ## Things I want to know more about
 #### 1. exception handling in Python
-#### 2. ‘readline() and read()
+#### 2. readline() and read()
 [readme link](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/read-class03.md)
 
