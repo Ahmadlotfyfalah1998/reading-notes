@@ -32,7 +32,8 @@
 #####   print("Something went wrong")
 ##### finally:
 #####   print("The 'try except' is finished")
- #### from "w3 schools"
+##### .
+ ### *examples from "w3 schools"*
  ## Things I want to know more about
 #### 1. exception handling in Python
 #### 2. readline() and read()
