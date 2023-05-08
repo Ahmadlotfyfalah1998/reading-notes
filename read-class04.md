@@ -17,3 +17,4 @@
 ## Things I want to know more about
 #### 1. objects
 #### 2.classes
+[readme link](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/read-class04.md)
