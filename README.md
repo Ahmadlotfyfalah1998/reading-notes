@@ -13,4 +13,4 @@
 |read02    |[Testing and Modules](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/Read-Class%2002.md)|
 |read03    |[FileIO & Exceptions](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/read-class03.md)   |
 |read04|[Topic](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/read-class04.md)|
-||[](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/read-Linked%20Lists.md)|
+|Linked Lists|[Linked Lists](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/read-Linked%20Lists.md)|
