@@ -26,4 +26,4 @@ efficiency  based on 2 factors:
  
  Some external factors affect the time it takes for a function to run: the speed of the processor, what else the computer is running, etc. So it’s hard to make strong statements about the exact runtime of an algorithm. Instead we use big O notation to express how quickly its runtime grows
 
-[readme link](https://github.com/Ahmadlotfyfalah1998/reading-notes/edit/main/read-Linked%20Lists.md)
+[readme link](https://github.com/Ahmadlotfyfalah1998/reading-notes/edit/main/read-Linked%20Lists.md](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/read-Linked%20Lists.md)
