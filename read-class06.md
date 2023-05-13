@@ -19,3 +19,9 @@ In simple terms, it is a technique to ensure that your tests are testing your co
 Big O notation is a mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity. Big O is a member of a family of notations invented by Paul Bachmann,[1] Edmund Landau,[2] and others, collectively called Bachmann–Landau notation or asymptotic notation. The letter O was chosen by Bachmann to stand for Ordnung, meaning the order of approximation.
 <br>
 ex: if you have a N of task you will take a time to do them depend on there numbers
+
+## Things I want to know more about
+1.test coverge
+2. big O
+
+[readme]()
