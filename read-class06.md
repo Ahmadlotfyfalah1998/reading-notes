@@ -24,4 +24,4 @@ ex: if you have a N of task you will take a time to do them depend on there numb
 1.test coverge
 2. big O
 
-[readme]()
+[readme](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/read-class06.md)
