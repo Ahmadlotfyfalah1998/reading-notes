@@ -14,5 +14,5 @@ we have to write the big O in algorithm to discripe the the prossecc of the code
 in oython we import a random library and deal with some methods like random() ,choice() , randint() ,for a dice we use randint() and give it range from 1 to 6 and this method will return a random number between 1 and 6 
 ## Things I want to know more about
 1.variable scope<br>
-2.big O
-[readme]()
+2.big O<br>
+[readme](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read07.md)
