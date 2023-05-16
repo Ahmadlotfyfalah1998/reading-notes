@@ -14,4 +14,4 @@
 |read03    |[FileIO & Exceptions](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read-class03.md)   |
 |read04|[Topic](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read-class04.md)|
 |Linked Lists|[Linked Lists](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read-Linked%20Lists.md)|
-|rea06|[Ten Thousand Game 1](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read-class06)|
+|rea06|[Ten Thousand Game 1](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read-class06.md)|
