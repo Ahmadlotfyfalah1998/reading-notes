@@ -16,3 +16,4 @@
 |Linked Lists|[Linked Lists](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read-Linked%20Lists.md)|
 |read06|[Ten Thousand Game 1](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read-class06.md)|
 |read07|[Ten Thousand 2](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read07.md)|
+|Stacks and Queues|[Stacks and Queues](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read-Stacks%20and%20Queues)|
