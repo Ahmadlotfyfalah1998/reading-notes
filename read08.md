@@ -37,4 +37,4 @@ def ordinary():<br>
 ## Things I want to know more about:
 1.decorator in Python?<br>
 2.list comprehension<br>
-[readme]()
+[readme](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/read08.md)
