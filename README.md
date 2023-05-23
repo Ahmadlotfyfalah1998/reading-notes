@@ -18,3 +18,4 @@
 |read07|[Ten Thousand 2](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read07.md)|
 |Stacks and Queues|[Stacks and Queues](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read-Stacks%20and%20Queues.md)|
 |read08|[Ten Thousand 3](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read08-class.md)|
+|read09|[Ten Thousand 4](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read09.md)|
