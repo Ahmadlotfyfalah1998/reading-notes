@@ -20,3 +20,4 @@
 |read08|[Ten Thousand 3](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read08-class.md)|
 |read09|[Ten Thousand 4](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read09.md)|
 |read11|[Data Analysis](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read-11.md)|
+|read12|[Topic:pandas](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read-12.md)|
