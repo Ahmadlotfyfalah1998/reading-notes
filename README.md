@@ -21,3 +21,4 @@
 |read09|[Ten Thousand 4](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read09.md)|
 |read11|[Data Analysis](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read-11.md)|
 |read12|[Topic:pandas](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read-12.md)|
+|read13|[Linear Regressions](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read13.md)|
