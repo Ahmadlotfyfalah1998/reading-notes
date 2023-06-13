@@ -25,3 +25,4 @@
 |read14|[Data Visualization](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read14.md)|
 |read15|[trees](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/trees.md)|
 |read16|[Serverless Functions](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read16.md)|
+|read17|[Web Scraping](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read17.md)|
