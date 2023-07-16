@@ -28,3 +28,4 @@
 |read17|[Web Scraping](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read17.md)|
 |read26|[Intro to Django](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read26.md)|
 |read27|[Django Models](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read27.md)|
+|read28|[Django CRUD and Forms](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read28.md)|
