@@ -30,4 +30,4 @@
 |read27|[Django Models](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read27.md)|
 |read28|[Django CRUD and Forms](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read28.md)|
 |read29|[Django Custom User](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/read29.md)|
-|hash_table|[hash table](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/hash_tables.md)|
+|hash_table|[hash table](notes/hash_tables.md)|
