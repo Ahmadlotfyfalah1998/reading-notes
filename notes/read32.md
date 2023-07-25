@@ -1,4 +1,4 @@
-[githop](https://ahmadlotfyfalah1998.github.io/reading-notes/)
+[githup](https://ahmadlotfyfalah1998.github.io/reading-notes/)
 ## Q1.What are the key components and purpose of Django Rest Framework (DRF) permissions, and how do they help in securing an API?
 1.Serializers are used to convert Django QuerySets and model instances to (serialization) and from (deserialization) JSON <br>
 (and a number of other data rendering formats like XML and YAML).<br>
