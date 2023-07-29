@@ -1,4 +1,4 @@
-[highup](https://ahmadlotfyfalah1998.github.io/reading-notes/)
+[hithup](https://ahmadlotfyfalah1998.github.io/reading-notes/)
 ## Q1.What is the primary purpose of JSON Web Tokens (JWTs) and how do they work in terms of encoding and decoding data?
 Purpose: JWTs are used for secure transmission of information between parties as JSON objects.m<br>
 Their primary purpose is to enable stateless authentication and authorization in web applications.<br>
