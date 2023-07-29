@@ -33,3 +33,4 @@
 |hash_table|[hash table](notes/hash_tables.md)|
 |read31|[Django REST Framework & Docker](notes/read31.md)|
 |read32|[Permissions & Postgresql](notes/read32.md)|
+|read33|[Authentication & Production](notes/read33.md)|
