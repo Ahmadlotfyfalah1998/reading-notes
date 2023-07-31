@@ -34,3 +34,4 @@
 |read31|[Django REST Framework & Docker](notes/read31.md)|
 |read32|[Permissions & Postgresql](notes/read32.md)|
 |read33|[Authentication & Production](notes/read33.md)|
+|read34|[API Deployment](notes/read34.md)|
