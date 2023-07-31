@@ -1,3 +1,4 @@
+[githup](https://ahmadlotfyfalah1998.github.io/reading-notes/)
 ## Question 1: What are the key principles to follow when organizing and configuring Django settings for a project, according to the “Django Settings Best Practices” reading?
 
 
