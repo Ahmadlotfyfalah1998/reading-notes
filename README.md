@@ -1,7 +1,10 @@
 # reading-notes
  here i will write my *questions* and *observations* about  assignments 😄
 
-
+|read      |class                                                                                                   |   
+| -------- | -----------------------------------------------------------------------------------------------------  |
+|read01    | [Topic](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/Read-Class%2001.md)             |
+|read02    |[Testing and Modules](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/Read-Class%2002.md)|
 
 ## Code 102 - Intro to Software Development
 ## Code 201 - Foundations of Software Development
