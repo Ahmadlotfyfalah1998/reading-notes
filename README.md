@@ -6,6 +6,9 @@
 ## Code 201 - Foundations of Software Development
 ## Code 301 - Intermediate Software Development
 ## Code 401 - Advanced Software Development
+
+
+
 |read      |class                                                                                                   |   
 | -------- | -----------------------------------------------------------------------------------------------------  |
 |read01    | [Topic](https://github.com/Ahmadlotfyfalah1998/reading-notes/blob/main/notes/Read-Class%2001.md)             |
