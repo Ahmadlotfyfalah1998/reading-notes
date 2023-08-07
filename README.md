@@ -37,5 +37,6 @@
 |read32|[Permissions & Postgresql](notes/read32.md)|
 |read33|[Authentication & Production](notes/read33.md)|
 |read34|[API Deployment](notes/read34.md)|
+|read36|[DSA Review](notea/read36.md)|
 
 
