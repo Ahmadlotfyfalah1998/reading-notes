@@ -1,3 +1,4 @@
+[githup](https://ahmadlotfyfalah1998.github.io/reading-notes/)
 ## How does lifting state up in a React application help with managing data flow and what are the benefits of using this approach?
 Lifting state up in a React application involves moving the management of a piece of state from a lower-level component to a higher-level component in the component tree.<br>
 This approach helps in better managing data flow and sharing state among components. By centralizing state management in a common ancestor,<br>
